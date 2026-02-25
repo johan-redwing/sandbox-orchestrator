@@ -1,4 +1,4 @@
-# Sandbox Console
+# Sandbox Orchestrator
 
 A full-stack platform for deploying and managing real AWS EC2 sandbox instances on Intel Xeon 5th Gen (Granite Rapids) processors. Built with React, Express, SQLite, and AWS SDK v3.
 
