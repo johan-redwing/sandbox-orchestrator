@@ -6,6 +6,8 @@ Every action in this application creates, modifies, or destroys real AWS infrast
 
 ---
 
+![Sandbox Orchestrator](sandbox_orchestrator_img.jpeg)
+
 ## Key Features
 
 - **Real EC2 provisioning** — Launches actual instances in a dedicated VPC with public subnet, internet gateway, and per-template security groups
